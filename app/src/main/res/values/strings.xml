@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Android Jetpack Pro</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="tittle">Title Movie</string>
+    <string name="overview">Overview Movie</string>
+    <string name="exp_release_data">09 September 2019</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="desc_image_poster_movie">Poster Movie</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+</resources>
